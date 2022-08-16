@@ -1,0 +1,31 @@
+
+ #t {
+    background-color: rgba(169, 255, 193, 0.477);
+    font-family: 'DynaPuff', cursive;
+}
+
+#b {
+    background-color: rgba(4, 255, 75, 0.477);
+    font-family: 'DynaPuff', cursive;
+}
+.footer {
+    position: fixed;
+    color: rgb(34, 34, 34);
+    bottom: 0;
+    width: 100%;
+    font-size: medium;
+    background-color: rgb(137, 137, 137);
+    text-align: center;
+    line-height: 30px;
+    font-family: 'Alfa Slab One', cursive;
+    text-shadow: 5px 5px 5px white;
+
+}
+body {
+    background: linear-gradient(rgb(255, 164, 245) 0%,rgb(255, 141, 242)50%, rgb(238, 0, 210)100%);
+    font-family: 'DynaPuff', cursive;}
+img {
+    height: 420px;
+    width: 340;
+    
+}
